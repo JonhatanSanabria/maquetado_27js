@@ -1,0 +1,76 @@
+#fuente {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+#Header {
+    background-color: rgb(0, 255, 115);
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+#Nav {
+    background-color: limegreen;
+    padding-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: aliceblue;
+    border-radius: 5px;
+}
+#Aside {
+    background-color: orange;
+    width: 22%;
+    height: 300px;
+    margin: 10px;
+    padding-left: 10px;
+    color: aliceblue;
+    float: left;
+    border-radius: 5px;
+}
+#Main {
+    background-color: red;
+    width: 48%;
+    height: 300px;
+    margin: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: aliceblue;
+    float: left;
+    border-radius: 5px;
+}
+#Aside2 {
+    background-color: orange;
+    width: 22%;
+    height: 300px;
+    margin: 10px;
+    padding-left: 10px;
+    color: aliceblue;
+    float: right;
+    border-radius: 5px;
+}
+#Contenido {
+    color: black;
+    background-color: aliceblue;
+    border-radius: 5px;
+    margin: 12px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    border-color: orange;
+}
+#Footer {
+    color: aliceblue;
+    background-color: darkorchid;
+    border-radius: 5px;
+    margin-top: 320px;
+    padding-left: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#Relleno {
+    color: darkorchid;
+}

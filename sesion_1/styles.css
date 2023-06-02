@@ -1,0 +1,32 @@
+/* Selector de elemento */
+h1 {
+    /* Aqui van las reglas */
+    color: blue;
+}
+p {
+    color: blueviolet;
+}
+span {
+    color: rgb(187, 97, 97);
+}
+#name {
+    color: rgb(20, 10, 12);
+    font-size: xx-large;
+}
+#lastname {
+    color: rgb(44, 255, 44);
+    font-size: xx-large;
+}
+.mybox {
+    background-color: blueviolet;
+    width: 50%;
+    height: 50%;
+    font-size: medium;
+
+}
+#superID {
+    background-color: aqua;
+    width: 50%;
+    height: 50%;
+    font-size: large;
+}
