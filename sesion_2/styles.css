@@ -32,13 +32,13 @@
 }
 #Main {
     background-color: red;
-    width: 50%;
+    width: 48%;
     height: 300px;
     margin: 10px;
     padding-left: 10px;
     padding-right: 10px;
     color: aliceblue;
-    float:left;
+    float: left;
     border-radius: 5px;
 }
 #Aside2 {

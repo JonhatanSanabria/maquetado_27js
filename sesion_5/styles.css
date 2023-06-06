@@ -1,0 +1,12 @@
+.main_container > .main_box {
+    width: 90px;
+    height: 90px;
+    background-color: blueviolet;
+    margin: 10px;
+}
+@media only screen and (min-width: 1200px){
+    body {
+        background-color: blue;
+        display: inline-block;
+};    
+}
