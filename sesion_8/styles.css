@@ -1,0 +1,42 @@
+#fondo {
+    background-color: hsla(258, 43%, 46%, 0.97);;
+}
+#layout {
+    width: 1440px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+#Huddle {
+position: absolute;
+top: 4rem;
+left: 4rem;
+width: 12rem
+}
+#windows {
+    position: absolute;
+    top: 13rem;
+    left: 2.6rem;
+    width: 49rem;
+    padding-left: 30px;
+}
+.container {
+    position: relative;
+    display: inline-flex;
+}
+.intro, .intro1 {
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    width: 300px;
+    text-align: center;
+}
+.text {
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    width: 300px;
+    text-align: center;
+    position: relative;
+    top: 5px;
+}
